@@ -232,7 +232,7 @@ function cappuccinoCupSize(cappuccinoSize){
             }
             break;
         default:
-            console.log("error! Please do some choice!");
+            console.log("Error! Please do some choice!");
     }
 
 }
